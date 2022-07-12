@@ -1,0 +1,17 @@
+img {
+    height: 400px;   
+    width: 400px;
+}
+
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1,
+h2,
+h3 {
+    text-align: center;
+    background-color: black;
+    color: white;
+    border: thick double #db62db;
+}
